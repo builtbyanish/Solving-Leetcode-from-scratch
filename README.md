@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -15,5 +16,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
