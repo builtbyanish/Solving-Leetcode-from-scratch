@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
