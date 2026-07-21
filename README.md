@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0283-move-zeroes) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
