@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2469-convert-the-temperature) |
 | [2651-calculate-delayed-arrival-time](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2651-calculate-delayed-arrival-time) |
+| [2769-find-the-maximum-achievable-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
