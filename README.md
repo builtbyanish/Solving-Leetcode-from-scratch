@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0507-perfect-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1837-sum-of-digits-in-base-k](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2413-smallest-even-multiple) |
