@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0007-reverse-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2119-a-number-after-a-double-reversal](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2235-add-two-integers) |
