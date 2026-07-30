@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2525-categorize-box-according-to-criteria) |
+| [2579-count-total-number-of-colored-cells](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2579-count-total-number-of-colored-cells) |
 | [2651-calculate-delayed-arrival-time](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2806-account-balance-after-rounded-purchase) |
