@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0009-palindrome-number) |
+| [0263-ugly-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0507-perfect-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2119-a-number-after-a-double-reversal](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2119-a-number-after-a-double-reversal) |
