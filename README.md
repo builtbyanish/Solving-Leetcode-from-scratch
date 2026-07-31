@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2525-categorize-box-according-to-criteria) |
 | [2579-count-total-number-of-colored-cells](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2579-count-total-number-of-colored-cells) |
 | [2651-calculate-delayed-arrival-time](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2651-calculate-delayed-arrival-time) |
