@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0283-move-zeroes) |
+| [0766-toeplitz-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0766-toeplitz-matrix) |
 | [1184-distance-between-bus-stops](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1184-distance-between-bus-stops) |
 | [1550-three-consecutive-odds](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1572-matrix-diagonal-sum) |
@@ -95,5 +96,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
