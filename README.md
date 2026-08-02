@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1184-distance-between-bus-stops) |
 | [1550-three-consecutive-odds](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1572-matrix-diagonal-sum) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2210-count-hills-and-valleys-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
