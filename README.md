@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2119-a-number-after-a-double-reversal) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2235-add-two-integers](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2469-convert-the-temperature) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1572-matrix-diagonal-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2162-minimum-cost-to-set-cooking-time) |
 <!---LeetCode Topics End-->
