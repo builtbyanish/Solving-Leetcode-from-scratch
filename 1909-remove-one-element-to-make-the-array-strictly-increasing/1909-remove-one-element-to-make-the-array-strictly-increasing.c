@@ -1,5 +1,3 @@
-#include <stdbool.h>
-
 bool canBeIncreasing(int* nums, int numsSize) {
     int count = 0;
 
