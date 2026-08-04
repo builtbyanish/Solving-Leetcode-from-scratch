@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0263-ugly-number) |
 | [0492-construct-the-rectangle](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0507-perfect-number) |
+| [0858-mirror-reflection](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0858-mirror-reflection) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0858-mirror-reflection) |
 | [2413-smallest-even-multiple](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
@@ -106,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2162-minimum-cost-to-set-cooking-time) |
+## Geometry
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0858-mirror-reflection) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0858-mirror-reflection) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
