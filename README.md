@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1550-three-consecutive-odds](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1572-matrix-diagonal-sum) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2057-smallest-index-with-equal-value](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2057-smallest-index-with-equal-value) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2210-count-hills-and-valleys-in-an-array) |
 ## Hash Table
