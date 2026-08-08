@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0858-mirror-reflection) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1492-the-kth-factor-of-n](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1837-sum-of-digits-in-base-k](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1837-sum-of-digits-in-base-k) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0858-mirror-reflection) |
+| [1492-the-kth-factor-of-n](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
