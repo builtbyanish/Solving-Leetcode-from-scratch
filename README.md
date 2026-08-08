@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0283-move-zeroes) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1572-matrix-diagonal-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -138,5 +140,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0054-spiral-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
