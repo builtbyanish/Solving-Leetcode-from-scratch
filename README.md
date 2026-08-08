@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2643-row-with-maximum-ones) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1572-matrix-diagonal-sum) |
 | [2352-equal-row-and-column-pairs](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2643-row-with-maximum-ones) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0054-spiral-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2352-equal-row-and-column-pairs) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Prefix Sum
 |  |
