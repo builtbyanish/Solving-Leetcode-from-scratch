@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2643-row-with-maximum-ones) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0141-linked-list-cycle) |
 | [2352-equal-row-and-column-pairs](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2352-equal-row-and-column-pairs) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0812-largest-triangle-area) |
+## Greedy
+|  |
+| ------- |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+## Counting
+|  |
+| ------- |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 <!---LeetCode Topics End-->
