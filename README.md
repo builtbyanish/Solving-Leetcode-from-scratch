@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2057-smallest-index-with-equal-value) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2643-row-with-maximum-ones](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1572-matrix-diagonal-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2643-row-with-maximum-ones](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2643-row-with-maximum-ones) |
 ## Enumeration
 |  |
 | ------- |
