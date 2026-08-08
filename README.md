@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2057-smallest-index-with-equal-value) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2614-prime-in-diagonal](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2525-categorize-box-according-to-criteria) |
 | [2544-alternating-digit-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2544-alternating-digit-sum) |
 | [2579-count-total-number-of-colored-cells](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2579-count-total-number-of-colored-cells) |
+| [2614-prime-in-diagonal](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2614-prime-in-diagonal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2769-find-the-maximum-achievable-number) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0858-mirror-reflection](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0858-mirror-reflection) |
 | [2413-smallest-even-multiple](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2413-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1572-matrix-diagonal-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2614-prime-in-diagonal](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2643-row-with-maximum-ones) |
 ## Enumeration
 |  |
