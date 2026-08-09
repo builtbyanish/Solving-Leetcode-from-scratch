@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0283-move-zeroes) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0059-spiral-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1572-matrix-diagonal-sum) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0059-spiral-matrix-ii) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
