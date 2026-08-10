@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0263-ugly-number) |
 | [0492-construct-the-rectangle](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0507-perfect-number) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0566-reshape-the-matrix) |
