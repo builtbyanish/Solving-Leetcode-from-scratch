@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0941-valid-mountain-array) |
 | [1184-distance-between-bus-stops](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1184-distance-between-bus-stops) |
 | [1266-minimum-time-visiting-all-points](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1266-minimum-time-visiting-all-points) |
