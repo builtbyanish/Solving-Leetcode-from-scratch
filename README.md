@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0812-largest-triangle-area) |
+| [0941-valid-mountain-array](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0941-valid-mountain-array) |
 | [1184-distance-between-bus-stops](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1184-distance-between-bus-stops) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1380-lucky-numbers-in-a-matrix) |
