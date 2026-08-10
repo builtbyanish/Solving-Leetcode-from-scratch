@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0812-largest-triangle-area) |
 | [0941-valid-mountain-array](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0941-valid-mountain-array) |
 | [1184-distance-between-bus-stops](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1184-distance-between-bus-stops) |
+| [1266-minimum-time-visiting-all-points](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1266-minimum-time-visiting-all-points) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0507-perfect-number) |
 | [0812-largest-triangle-area](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0858-mirror-reflection) |
+| [1266-minimum-time-visiting-all-points](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1492-the-kth-factor-of-n) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-largest-triangle-area](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/0858-mirror-reflection) |
+| [1266-minimum-time-visiting-all-points](https://github.com/builtbyanish/Solving-Leetcode-from-scratch/tree/master/1266-minimum-time-visiting-all-points) |
 ## Least Common Multiple
 |  |
 | ------- |
